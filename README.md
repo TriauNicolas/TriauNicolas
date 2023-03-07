@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center">Hello There 👋 I'm Nicolas Triau </h1>
+ <h1 align="center">Hello There 👋 </h1>
  <p align="center">Developer at Pecking Crow Studio & Freelance developer for New-Energy</p>
  <div align="center">
   <a href="https://www.linkedin.com/in/nicolastriau/">
