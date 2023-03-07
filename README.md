@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 First Stat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriauNicolastheme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriauNicolastheme=tokyonight)]
 
 <!--
 Second Stat
