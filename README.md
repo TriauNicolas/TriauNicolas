@@ -11,34 +11,11 @@
  </div>
 </p>
 
-### Some Github Stats
+- 🎮 I’m currently working on the videogame Inmortis
+- 🌱 I’m currently learning at Hetic, master CTO
+- 💬 Ask me about how not being corporative 
+- ⚡ Fun fact: I'm French
+
+### My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriauNicolas&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TriauNicolas&layout=compact&hide=yacc,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-Second Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriauNicolas&hide=contribs,prs)
-
-Third Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriauNicolas&count_private=true)
-
-Fourth Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriauNicolas&show_icons=true)
-
-Fifth Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriauNicolas&show_icons=true&theme=radical) -->
-
-<!--
-**TriauNicolas/TriauNicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
