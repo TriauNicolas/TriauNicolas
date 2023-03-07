@@ -11,6 +11,7 @@
  </div>
 </p>
 
+### Some informations about me
 - 🎮 I’m currently working on the videogame Inmortis
 - 🌱 I’m currently learning at Hetic, master CTO
 - 💬 Ask me about how not being corporative 
