@@ -1,5 +1,11 @@
-### Hello there 👋
+<p align="center">
+ <h1 align="center">Hello There 👋 I'm Nicolas Triau </h1>
+ <p align="center">Developer at Pecking Crow Studio & Freelance developer for New-Energy</p>
+ <p align="center"><a href="https://www.linkedin.com/in/nicolastriau/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:john@example.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=mail&logoColor=white" height=25></a>
+ </p>
+</p>
 
+### Some Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriauNicolas&show_icons=true&theme=tokyonight)
 
 <!--
