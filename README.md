@@ -1,6 +1,5 @@
 ### Hello there 👋
 
-First Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriauNicolas&show_icons=true&theme=tokyonight)
 
 <!--
