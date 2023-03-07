@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 First Stat
-(https://github-readme-stats.vercel.app/api?username=TriauNicolastheme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriauNicolastheme=tokyonight)
 
 <!--
 Second Stat
