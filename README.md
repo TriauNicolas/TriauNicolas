@@ -14,7 +14,7 @@
 ### Some informations about me
 - 🎮 I’m currently working on the videogame Inmortis
 - 🌱 I’m currently learning at Hetic, master CTO
-- 💬 Ask me about how not being corporative 
+- 💬 Ask me to not being corporative 
 - ⚡ Fun fact: I'm French
 
 ### My Github Stats
