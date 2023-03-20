@@ -18,5 +18,4 @@
 - ⚡ Fun fact: I'm French
 
 ### My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TriauNicolas&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TriauNicolas&layout=compact&hide=yacc,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TriauNicolas&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TriauNicolas&layout=compact&hide=yacc,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
