@@ -13,7 +13,7 @@
 
 ### Some informations about me
 - 🎮 I’m currently working on the videogame Inmortis
-- ⚡ Also working as a Freelance for New-Energy
+- ⚡ Also working as a Freelance at New-Energy
 - 🌱 I’m currently learning at Hetic, master CTO
 - 💬 Ask me to not being corporative 
 - 😄 Fun fact: I'm French
