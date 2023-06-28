@@ -13,9 +13,10 @@
 
 ### Some informations about me
 - 🎮 I’m currently working on the videogame Inmortis
+- ⚡ Also working as a Freelance for New-Energy
 - 🌱 I’m currently learning at Hetic, master CTO
 - 💬 Ask me to not being corporative 
-- ⚡ Fun fact: I'm French
+- 😄 Fun fact: I'm French
 
 ### My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TriauNicolas&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TriauNicolas&layout=compact&hide=yacc,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
