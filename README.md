@@ -14,7 +14,7 @@
 ### Some informations about me
 - 🎮 I’m currently working on the videogame Inmortis
 - ⚡ Also working as a Freelance at New-Energy
-- 🌱 I’m currently learning at Hetic, master CTO
+- 🌱 Finished learning at Hetic. I'm now a teacher !
 - 💬 Ask me to not being corporative 
 - 😄 Fun fact: I'm French
 
