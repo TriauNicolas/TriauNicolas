@@ -14,7 +14,7 @@
 ### Some informations about me
 - 🎮 I’m currently working at Pecking Crow Studio
 - ⚡ Also working as a Freelance at New-Energy
-- 🌱 Finished learning at Hetic. I'm now a teacher !
+- 🌱 Finished learning at Hetic. Now I'm a teacher !
 - 💬 Ask me to not being corporative 
 - 😄 Fun fact: I'm French
 
